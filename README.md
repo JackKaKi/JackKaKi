@@ -1,6 +1,6 @@
 # Hi, I'm Kinga
 
-Third-year Computer Science student at the **Polish-Japanese Academy of Information Technology (PJATK)** in Warsaw, specialising in game development.
+Final-year Computer Science student at the **Polish-Japanese Academy of Information Technology (PJATK)** in Warsaw, specialising in game development. Currently in my last semester (graduating February 2027).
 
 ## Currently
 
